@@ -1,0 +1,13 @@
+{
+  "slots": 8,
+  "levels": 3,
+  "cancel": ["t3"],
+  "advances": [4, 12, 30, 100],
+  "timers": [
+    {"id": "t1", "delay": 3, "at": 0},
+    {"id": "t2", "delay": 9, "at": 0},
+    {"id": "t3", "delay": 20, "at": 0},
+    {"id": "t4", "delay": 70, "at": 0},
+    {"id": "t5", "delay": 7, "at": 6}
+  ]
+}
